@@ -11,7 +11,7 @@ INSERT INTO `hema` . `products` (`name`, `price`)
 VALUES ('handoek', 22.0);
 
 INSERT INTO `hema` . `products` (`name`, `price`)
-VALUES ('handoek', 17.0);
+VALUES ('broek', 17.0);
 
 INSERT INTO `hema` . `products` (`name`, `price`)
-VALUES ('handoek', 10.0);
+VALUES ('shirt', 10.0);

@@ -21,7 +21,7 @@
                 </table>
                 <table>
                         <tr>
-                               <td><input type="number" name="inum"/></td>
+                               <td><label for="">Amount: </label></td><td><input type="number" name="inum" maxlength="1" size="1"/></td>
                         </tr>
                         <tr>
                                 <td><input type="submit" name="submit" value="Confirm"/></td>
